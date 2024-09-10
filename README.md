@@ -1,6 +1,6 @@
 # RentBnC
 
-**RentBnC** is a vacation rental platform that allows users to find and book short-term rental properties. This web application provides a user-friendly interface for browsing available rental options, viewing property details, and making reservations for stays.
+**RentBnC** is a vacation rental platform that allows users to find and book short-term and extended stay rental properties. This web application provides a user-friendly interface for browsing available rental options, viewing property details, and making reservations for stays.
 
 ## Features
 
