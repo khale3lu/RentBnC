@@ -40,7 +40,7 @@ The platform includes the following key sections:
 
 To explore RentBnC, follow these steps:
 
-1. Visit the live site: [RentBnC](https://shaleycoral.wixsite.com/rentbnc)
+1. Visit the live site: [RentBnC](https://www.rentbnc.com)
 2. Browse available properties, select your desired dates, and make a booking.
 
 ## Contributing
