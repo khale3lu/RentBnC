@@ -1,0 +1,15 @@
+    Deletes a rentbncPlace based on the id provided
+    ---
+    tags:
+      - RentbncPlaces
+    parameters:
+      - name: rentbncPlace_id
+        in: path
+        type: string
+        required: true
+        description: The uuid of the rentbncPlace to delete
+    responses:
+      404:
+        description: rentbncPlace not found!
+      200:
+        description: Deletion request sucessful
