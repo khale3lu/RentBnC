@@ -1,0 +1,37 @@
+Gets the list of all rentbncPlaces
+---
+tags:
+  - rentbncPlace
+responses:
+  200:
+    description: Successful request
+    schema:
+      type: array
+      items:
+        properties:
+          __class__:
+            type: string
+          created_at:
+            type: string
+            description: time of creation of the instance
+          updated_at:
+            type: string
+            description: time of last update of the instance
+          id:
+            type: string
+            description: The uuid of the rentbncPlace instance
+          city:
+            type: string
+            description: city name
+          owner_email:
+            type: string
+            description: owner email
+          address:
+            type: string
+            description: address
+          imageUrl:
+            type: string
+            description: url of home image
+          description:
+            type: string
+            description: description of the house
