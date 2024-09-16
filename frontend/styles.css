@@ -505,3 +505,126 @@ Show all properties (41 more)
     --one-unit: 1vw;
     --section-max-width: 9999px;
 }
+
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+:root {
+    --tooltip-text-color: white;
+    --tooltip-background-color: black;
+    --tooltip-margin: 30px;
+    --tooltip-arrow-size: 6px;
+}
+:root, :host, .spxThemeOverride, .max-width-container {
+    --color_0: 255, 255, 255;
+    --color_1: 255, 255, 255;
+    --color_2: 0, 0, 0;
+    --color_3: 237, 28, 36;
+    --color_4: 0, 136, 203;
+    --color_5: 255, 203, 5;
+    --color_6: 114, 114, 114;
+    --color_7: 176, 176, 176;
+    --color_8: 255, 255, 255;
+    --color_9: 114, 114, 114;
+    --color_10: 176, 176, 176;
+    --color_11: 241, 247, 248;
+    --color_12: 246, 246, 246;
+    --color_13: 217, 217, 217;
+    --color_14: 0, 71, 255;
+    --color_15: 0, 71, 255;
+    --color_16: 229, 240, 254;
+    --color_17: 0, 71, 255;
+    --color_18: 0, 71, 255;
+    --color_19: 0, 58, 150;
+    --color_20: 0, 29, 75;
+    --color_21: 249, 197, 180;
+    --color_22: 243, 167, 143;
+    --color_23: 246, 246, 246;
+    --color_24: 158, 59, 27;
+    --color_25: 79, 29, 14;
+    --color_26: 210, 172, 247;
+    --color_27: 186, 131, 240;
+    --color_28: 128, 21, 232;
+    --color_29: 85, 14, 155;
+    --color_30: 43, 7, 77;
+    --color_31: 177, 211, 187;
+    --color_32: 127, 168, 139;
+    --color_33: 64, 124, 81;
+    --color_34: 43, 83, 54;
+    --color_35: 21, 41, 27;
+    --color_36: 241, 247, 248;
+    --color_37: 0, 71, 255;
+    --color_38: 181, 203, 250;
+    --color_39: 121, 159, 252;
+    --color_40: 60, 115, 253;
+    --color_41: 229, 230, 235;
+    --color_42: 246, 246, 246;
+    --color_43: 0, 62, 221;
+    --color_44: 0, 62, 221;
+    --color_45: 0, 71, 255;
+    --color_46: 0, 71, 255;
+    --color_47: 0, 71, 255;
+    --color_48: 0, 71, 255;
+    --color_49: 0, 71, 255;
+Show all properties (41 more)
+}
+:root {
+    --wst-button-color-fill-primary: rgb(var(--color_48));
+    --wst-button-color-border-primary: rgb(var(--color_49));
+    --wst-button-color-text-primary: rgb(var(--color_50));
+    --wst-button-color-fill-primary-hover: rgb(var(--color_51));
+    --wst-button-color-border-primary-hover: rgb(var(--color_52));
+    --wst-button-color-text-primary-hover: rgb(var(--color_53));
+    --wst-button-color-fill-primary-disabled: rgb(var(--color_54));
+    --wst-button-color-border-primary-disabled: rgb(var(--color_55));
+    --wst-button-color-text-primary-disabled: rgb(var(--color_56));
+    --wst-button-color-fill-secondary: rgb(var(--color_57));
+    --wst-button-color-border-secondary: rgb(var(--color_58));
+    --wst-button-color-text-secondary: rgb(var(--color_59));
+    --wst-button-color-fill-secondary-hover: rgb(var(--color_60));
+    --wst-button-color-border-secondary-hover: rgb(var(--color_61));
+    --wst-button-color-text-secondary-hover: rgb(var(--color_62));
+    --wst-button-color-fill-secondary-disabled: rgb(var(--color_63));
+    --wst-button-color-border-secondary-disabled: rgb(var(--color_64));
+    --wst-button-color-text-secondary-disabled: rgb(var(--color_65));
+    --wst-color-fill-base-1: rgb(var(--color_36));
+    --wst-color-fill-base-2: rgb(var(--color_37));
+    --wst-color-fill-base-shade-1: rgb(var(--color_38));
+    --wst-color-fill-base-shade-2: rgb(var(--color_39));
+    --wst-color-fill-base-shade-3: rgb(var(--color_40));
+    --wst-color-fill-accent-1: rgb(var(--color_41));
+    --wst-color-fill-accent-2: rgb(var(--color_42));
+    --wst-color-fill-accent-3: rgb(var(--color_43));
+    --wst-color-fill-accent-4: rgb(var(--color_44));
+    --wst-color-fill-background-primary: rgb(var(--color_11));
+    --wst-color-fill-background-secondary: rgb(var(--color_12));
+    --wst-color-text-primary: rgb(var(--color_15));
+    --wst-color-text-secondary: rgb(var(--color_14));
+    --wst-color-action: rgb(var(--color_18));
+    --wst-color-disabled: rgb(var(--color_39));
+    --wst-color-title: rgb(var(--color_45));
+    --wst-color-subtitle: rgb(var(--color_46));
+    --wst-color-line: rgb(var(--color_47));
+    --wst-font-style-h2: var(--font_2);
+    --wst-font-style-h3: var(--font_3);
+    --wst-font-style-h4: var(--font_4);
+    --wst-font-style-h5: var(--font_5);
+    --wst-font-style-h6: var(--font_6);
+    --wst-font-style-body-large: var(--font_7);
+    --wst-font-style-body-medium: var(--font_8);
+    --wst-font-style-body-small: var(--font_9);
+    --wst-font-style-body-x-small: var(--font_10);
+}
+
+@supports (container-type:inline-size) {
+    :root {
+        --one-unit: 1cqw;
+    }
+}
+:root {
+    --one-unit: 1vw;
+    --section-max-width: 9999px;
+}
