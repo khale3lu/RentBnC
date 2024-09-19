@@ -12,6 +12,8 @@
 
 ## Website Overview
 
+![rentbnc](https://github.com/user-attachments/assets/17301b0c-3246-47b2-b360-42974d758626)
+
 The platform includes the following key sections:
 
 1. **Homepage:** Featuring popular destinations and highlighted properties.
